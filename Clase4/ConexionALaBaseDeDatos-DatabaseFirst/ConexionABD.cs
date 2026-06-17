@@ -7,6 +7,7 @@ namespace ConexionALaBaseDeDatos
 {
     internal static class ConexionABD
     {
+        //Comentario nuevo
         /// <summary>
         /// Configura la conexión a la base de datos.
         /// </summary>
